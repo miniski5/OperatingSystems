@@ -3,3 +3,8 @@ One main function of any operating system is turning the computer on and off.
 While this can also be done through the hardware present in the computer through the physical switch on the pwer supply, the operating system has to also be able to do it itself.
 An operating system on a computer will be linked to the on/off button on the front of the computer, and on a phone the OS will be linked to the power button as well.
 An OS will also be able to have functionality for starting/turning off/restarting the computer through the Start Menu on Windows computers.
+
+Another main function of an OS is providing a User Interface, or UI. 
+The UI is how the user interacts with all the programs on the computer.
+UIs are optimized to be siomple and easy to understand while offering maximum functionality for the user.
+A Graphical User Interface (or GUI) gives users menus and visuals to interact with on the computer for more intuitive navigation.
