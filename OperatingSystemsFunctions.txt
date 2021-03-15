@@ -8,3 +8,8 @@ Another main function of an OS is providing a User Interface, or UI.
 The UI is how the user interacts with all the programs on the computer.
 UIs are optimized to be siomple and easy to understand while offering maximum functionality for the user.
 A Graphical User Interface (or GUI) gives users menus and visuals to interact with on the computer for more intuitive navigation.
+
+The third main function of an OS is managing programs.
+Almost all modern OS's allow for "multitasking", or running multiple programs at once.
+This means the OS is capable of managing seperate tasks simultaneously and must have sofware for dividing of the computer's processing resources appropriately.
+When a computer is multitasking, one program will be in the "foreground" and one will be in the "backrground", depending on which program is active and which is running but not active.
